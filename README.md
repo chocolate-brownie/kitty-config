@@ -22,8 +22,8 @@ A clean and functional configuration for the [Kitty terminal emulator](https://s
 
 2. Clone this repository:
 ```bash
-git clone [your-repo-url]
-cd [your-repo-name]
+git clone https://github.com/chocolate-brownie/kitty-config.git
+cd kitty-config
 ```
 
 3. Copy the configuration:
