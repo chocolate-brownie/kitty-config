@@ -1,6 +1,7 @@
 # 🐱 My Kitty Terminal Configuration
 
 A clean and functional configuration for the [Kitty terminal emulator](https://sw.kovidgoyal.net/kitty/), featuring the beautiful Kanagawa color scheme and FiraCode Nerd Font.
+![image](https://github.com/user-attachments/assets/7f06d26c-e442-48d0-bb67-791d2f1a055b)
 
 ## ✨ Features
 
