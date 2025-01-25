@@ -26,12 +26,6 @@ resize_draw_strategy          static
 confirm_os_window_close       0
 #: }}}
 
-#: Colors & Theme {{{
-# Border color (Rose Pine theme colors)
-# active_border_color           #9ccfd8
-# Light blue from Rose Pine
-# inactive_border_color         #6e6a86
-# Muted purple from Rose Pine
 
 background_opacity            0.9
 dynamic_background_opacity    no
@@ -83,7 +77,7 @@ cursor_stop_blinking_after  15.0
 #: }}}
 
 #: Advanced {{{
-shell                   /usr/bin/bash
+shell                   /usr/bin/fish
 editor                  /use/bin/nvim
 allow_remote_control    yes
 listen_on               unix:/tmp/kitty
@@ -131,6 +125,6 @@ map ctrl+shift+r        load_config_file
 #: }}}
 
 # BEGIN_KITTY_THEME
-# 3024 Night
+# Kanagawa
 include current-theme.conf
 # END_KITTY_THEME
