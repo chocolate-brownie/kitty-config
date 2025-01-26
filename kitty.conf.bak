@@ -1,7 +1,6 @@
 #: Fonts {{
-font_family         FiraCode Nerd Font Mono
-italic_font         FiraCode Nerd Font Mono
-font_features       FiraCode Nerd Font Mono +ss01 +ss02 +ss03 +calt +liga
+font_family         SpaceMono Nerd Font Mono
+# italic_font         CodeNewRoman Nerd Font Mono
 
 disable_ligatures           never
 font_features none +calt +liga +ss01 +ss03 +ss04 +ss05 +ss06 +ss07 +ss08 +ss09
