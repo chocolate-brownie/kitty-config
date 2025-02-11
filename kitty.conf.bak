@@ -1,13 +1,12 @@
-# Regular font (JetBrains Mono)
 # font_family ProggyVector Nerd Font 
-font_family IosevkaTerm Nerd Font 
-# font_family DaddyTimeMono Nerd Font 
+# font_family RecMonoCasual Nerd Font 
+font_family Hasklug Nerd Font 
 
 # # Italic font (CaskaydiaCove)
 # italic_font      CaskaydiaCove Nerd Font
 
 # Font size
-font_size 12.0
+font_size 10.0
 
 disable_ligatures           never
 adjust_column_width         0
@@ -129,6 +128,6 @@ map ctrl+shift+r        load_config_file
 #: }}}
 
 # BEGIN_KITTY_THEME
-# Black Metal
+# Constant Perceptual Luminosity (dark)
 include current-theme.conf
 # END_KITTY_THEME
