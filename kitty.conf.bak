@@ -3,7 +3,7 @@
 font_family Hasklug Nerd Font 
 
 # # Italic font (CaskaydiaCove)
-# italic_font      CaskaydiaCove Nerd Font
+italic_font      CaskaydiaCove Nerd Font
 
 # Font size
 font_size 10.0
